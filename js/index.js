@@ -21,3 +21,8 @@ function render(data) {
     }
 
 }
+var deleted = document.getElementById('delete')
+deleted.addEventListener('click', function() {
+        row.cell[i]
+    })
+    // bo' tay
